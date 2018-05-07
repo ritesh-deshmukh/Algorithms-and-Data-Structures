@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewQuestions/pythagorian_triplet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/matrix_rotation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pythagorian_triplet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InterviewQuestions/pythagorian_triplet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graph/tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="matrix_rotation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graph/matrix_rotation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -76,6 +104,8 @@
         <option value="$PROJECT_DIR$/graph/Representing a graph/adjacency_matrix.py" />
         <option value="$PROJECT_DIR$/graph/floyd_warshall.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/InterviewQuestions/pythagorian_triplet.py" />
+        <option value="$PROJECT_DIR$/graph/matrix_rotation.py" />
       </list>
     </option>
   </component>
@@ -99,6 +129,16 @@
               <item name="Algorithms_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -107,7 +147,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -128,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.floyd_warshall">
+  <component name="RunManager" selected="Python.pythagorian_triplet">
     <configuration name="adjacency_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,24 +200,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph/Representing a graph/adjacency_matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="breadth_first_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph/breadth_first_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,20 +241,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="pythagorian_triplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterviewQuestions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterviewQuestions/pythagorian_triplet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.breadth_first_search" />
       <item itemvalue="Python.djiktras" />
       <item itemvalue="Python.adjacency_list" />
       <item itemvalue="Python.adjacency_matrix" />
       <item itemvalue="Python.floyd_warshall" />
+      <item itemvalue="Python.pythagorian_triplet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pythagorian_triplet" />
         <item itemvalue="Python.floyd_warshall" />
         <item itemvalue="Python.adjacency_matrix" />
         <item itemvalue="Python.adjacency_list" />
         <item itemvalue="Python.djiktras" />
-        <item itemvalue="Python.breadth_first_search" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +287,14 @@
       <option name="presentableId" value="Default" />
       <updated>1524340803396</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Commit">
+      <created>1525677487535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525677487535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -257,7 +305,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28451002" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2835979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33121693" />
       <window_info id="Favorites" order="2" sideWeight="0.50052685" side_tool="true" weight="0.2809829" />
@@ -273,6 +321,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graph/depth_first_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -536,6 +581,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewQuestions/pythagorian_triplet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/matrix_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
         </state>
       </provider>
     </entry>
