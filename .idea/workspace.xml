@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="" />
+    <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/graph/matrix_rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/matrix_rotation.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +46,8 @@
       <file leaf-file-name="matrix_rotation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/graph/matrix_rotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="150">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -304,7 +306,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2835979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49893162" visible="true" weight="0.33121693" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49893162" visible="true" weight="0.33121693" />
       <window_info id="Favorites" order="2" sideWeight="0.50052685" side_tool="true" weight="0.2809829" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39936775" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -597,8 +599,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/graph/matrix_rotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
