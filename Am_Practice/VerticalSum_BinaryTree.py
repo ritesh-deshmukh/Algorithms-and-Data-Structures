@@ -13,7 +13,8 @@ class TreeNode:
 
     def vertical_traverse(self, level):
         stack = []
-        result = defaultdict(list) # key: level, value: list of node identifier
+        # key: level, value: list of node identifier
+        result = defaultdict(list)
         stack.append((self, level))
         # print(stack)
         while len(stack) > 0:

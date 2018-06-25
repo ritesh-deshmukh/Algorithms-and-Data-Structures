@@ -25,9 +25,9 @@ class HashTable(object):
             if self.keys[index] == key:
                 self.values[index] = data
                 return
-
+            # rehash try to find another slot
             index = (index+1) % self.size
-
+        # insert
         self.keys[index] = key
         self.values[index] = data
 
@@ -49,10 +49,11 @@ table.put("orange", 20)
 table.put("pear", 30)
 table.put("mango", 40)
 
-# print(table.get("orange"))
+print(table.get("apple"))
+print(table.get("orange"))
+print(table.get("pear"))
+print(table.get("mango"), "\n")
 # print(table.hashfunction("apple"))
 # print(table.hashfunction("orange"))
 # print(table.hashfunction("pear"))
 # print(table.hashfunction("mango"))
-
-table.hashfunction("orange")

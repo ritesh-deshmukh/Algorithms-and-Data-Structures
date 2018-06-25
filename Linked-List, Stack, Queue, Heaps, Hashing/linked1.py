@@ -45,5 +45,5 @@ ll.insertEnd(5)
 ll.insertEnd(6)
 ll.insertEnd(7)
 ll.insertEnd(8)
-
+ll.size
 ll.traverseList()

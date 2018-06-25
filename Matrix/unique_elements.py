@@ -18,6 +18,7 @@ def unique_elements(mat):
             else:
                 non_unique_elements.append(mat[i][j])
     print("Unique elements in given MX = {}".format(unique_elements))
+    print("Non-Unique elements in given MX = {}".format(non_unique_elements))
     unique_elements.sort()
     print("Unique elements sorted in given MX = {}".format(unique_elements))
 
