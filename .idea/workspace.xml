@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph2/BFS1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph2/DFS1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph2/directed_graph.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/doubly_LL.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/hash1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/heap1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/CSV reader/csv_read.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/CSV reader/data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/k_largest_elements.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/least_common_ancestor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/max_depth_tree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/pythagorean_triplet.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/reverse_LL.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/reverse_linked_list_forK.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Am_Practice/VerticalSum_BinaryTree.py" afterPath="$PROJECT_DIR$/Am_Practice/VerticalSum_BinaryTree.py" />
-      <change beforePath="$PROJECT_DIR$/Am_Practice/staircase.py" afterPath="$PROJECT_DIR$/Am_Practice/staircase.py" />
-      <change beforePath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/hashtable.py" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/hashtable.py" />
-      <change beforePath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py" />
-      <change beforePath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linkedlist.py" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linkedlist.py" />
-      <change beforePath="$PROJECT_DIR$/Matrix/unique_elements.py" afterPath="$PROJECT_DIR$/Matrix/unique_elements.py" />
-      <change beforePath="$PROJECT_DIR$/Random Practice/min_coins.py" afterPath="$PROJECT_DIR$/Random Practice/min_coins.py" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/go_inc_questionnairesum.py" afterPath="$PROJECT_DIR$/InterviewQuestions/go_sum.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,31 +23,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="adjacency_list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graph/Representing a graph/adjacency_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="counting_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sorting/Sorting1/counting_sort.py">
+      <file leaf-file-name="k_largest_elements.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/k_largest_elements.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="radix_sort.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sorting/Sorting1/radix_sort.py">
+      <file leaf-file-name="pythagorean_triplet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/pythagorean_triplet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="756">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="max_depth_tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/max_depth_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="least_common_ancestor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/least_common_ancestor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverse_linked_list_forK.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/reverse_linked_list_forK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverse_LL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/reverse_LL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="903">
+              <caret line="43" column="14" lean-forward="false" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="go_sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InterviewQuestions/go_sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bubble_sort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sorting/Sorting1/bubble_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,6 +117,7 @@
       <find>print</find>
       <find>l</find>
       <find>short</find>
+      <find>findLCA</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -84,12 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dynamic Programming/edit_distance.py" />
-        <option value="$PROJECT_DIR$/Graph/Representing a graph/tree_practice.py" />
-        <option value="$PROJECT_DIR$/Graph/tree_minmaxtravpre.py" />
-        <option value="$PROJECT_DIR$/Linked-List, Stack, Queue/linkedlist.py" />
-        <option value="$PROJECT_DIR$/Linked-List, Stack, Queue/linked1.py" />
-        <option value="$PROJECT_DIR$/Linked-List, Stack, Queue/stack.py" />
         <option value="$PROJECT_DIR$/Linked-List, Stack, Queue/queus.py" />
         <option value="$PROJECT_DIR$/Linked-List, Stack, Queue/queue.py" />
         <option value="$PROJECT_DIR$/Linked-List, Stack, Queue/heap.py" />
@@ -135,10 +171,16 @@
         <option value="$PROJECT_DIR$/Matrix/unique_elements.py" />
         <option value="$PROJECT_DIR$/Matrix/diagonal_sum.py" />
         <option value="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/doubly_LL.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/k_largest_elements.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/pythagorean_triplet.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/max_depth_tree.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/least_common_ancestor.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/reverse_linked_list_forK.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/reverse_LL.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="595" />
     <option name="y" value="44" />
     <option name="width" value="976" />
@@ -173,13 +215,12 @@
             <path>
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
-              <item name="Sorting1" type="462c0819:PsiDirectoryNode" />
+              <item name="Matrix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,111 +254,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.adjacency_list">
-    <configuration name="adjacency_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.reverse_LL">
+    <configuration name="least_common_ancestor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph/Representing a graph" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/Representing a graph/adjacency_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/least_common_ancestor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="diagonal_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="max_depth_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrix/diagonal_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/max_depth_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="doubly_LL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pythagorean_triplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/doubly_LL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/pythagorean_triplet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="max_element_in_each_row" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverse_LL" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrix/max_element_in_each_row.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/reverse_LL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="unique_elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverse_linked_list_forK" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matrix/unique_elements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/reverse_linked_list_forK.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.unique_elements" />
-      <item index="1" class="java.lang.String" itemvalue="Python.diagonal_sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.doubly_LL" />
-      <item index="3" class="java.lang.String" itemvalue="Python.max_element_in_each_row" />
-      <item index="4" class="java.lang.String" itemvalue="Python.adjacency_list" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pythagorean_triplet" />
+      <item index="1" class="java.lang.String" itemvalue="Python.max_depth_tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.least_common_ancestor" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reverse_linked_list_forK" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reverse_LL" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.adjacency_list" />
-        <item index="1" class="java.lang.String" itemvalue="Python.max_element_in_each_row" />
-        <item index="2" class="java.lang.String" itemvalue="Python.doubly_LL" />
-        <item index="3" class="java.lang.String" itemvalue="Python.diagonal_sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.unique_elements" />
+        <item index="0" class="java.lang.String" itemvalue="Python.reverse_LL" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverse_linked_list_forK" />
+        <item index="2" class="java.lang.String" itemvalue="Python.least_common_ancestor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.max_depth_tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pythagorean_triplet" />
       </list>
     </recent_temporary>
   </component>
@@ -346,16 +387,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13643575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20782654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48453608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30351076" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25541618" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25481313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -393,73 +435,11 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Graph2/DFS1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/heap_using_library.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="47" column="7" lean-forward="false" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/breadth_first_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="63" column="25" lean-forward="true" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph2/BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph2/DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -467,6 +447,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="38" column="61" lean-forward="true" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -474,6 +455,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -481,6 +463,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -502,6 +485,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="55" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -565,6 +549,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -656,6 +641,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -663,6 +649,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -670,6 +657,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -677,6 +665,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -719,6 +708,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -749,6 +739,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/Sorting1/merge_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/Sorting1/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/k_largest_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/pythagorean_triplet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/max_depth_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/least_common_ancestor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/reverse_linked_list_forK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/reverse_LL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="14" lean-forward="false" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewQuestions/go_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
