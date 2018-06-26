@@ -1,10 +1,10 @@
 class Node(object):
     def __init__(self, name):
         self.name = name
-        self.visited = False
         self.adjacencyList = []
+        self.visited = False
 
-class BreadthFirstSearch(object):
+class BFS(object):
     def bfs(self, startNode):
         queue = []
         queue.append(startNode)
@@ -13,14 +13,10 @@ class BreadthFirstSearch(object):
         while queue:
             actualNode = queue.pop(0)
             print("{}".format(actualNode.name))
-
             for n in actualNode.adjacencyList:
-                if n.visited == False:
+                if not n.visited:
                     n.visited = True
                     queue.append(n)
-
-
-bfs = BreadthFirstSearch()
 
 node1 = Node("A")
 node2 = Node("B")
@@ -32,7 +28,6 @@ node1.adjacencyList.append(node2)
 node1.adjacencyList.append(node3)
 node2.adjacencyList.append(node4)
 node4.adjacencyList.append(node5)
-node1.adjacencyList.append(node5)
 
-bfs = BreadthFirstSearch()
+bfs = BFS()
 bfs.bfs(node1)

@@ -58,7 +58,7 @@ class BinarySearchTree(object):
         if node.leftchild:
             self.traverseInOrder(node.leftchild)
 
-        print("{}".format(node.data))
+        print("{}".format(node.data), end=" ")
 
         if node.rightchild:
             self.traverseInOrder(node.rightchild)

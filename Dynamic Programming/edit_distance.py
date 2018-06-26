@@ -4,7 +4,37 @@
 # Remove
 # Replace
 
+# Using Dynamic programming by storing the subproblems
+def str_compare(str1, str2, m, n):
+    sub_problem_arr = [[0 for x in range(n+1)]for x in range(n+1)]
 
+    for i in range(m+1):
+        for j in range(n+1):
+
+            if i == 0:
+                sub_problem_arr[i][j] = j
+
+            elif j == 0:
+                sub_problem_arr[i][j] = i
+
+            elif str1[i-1] == str2[j-1]:
+                sub_problem_arr[i][j] = sub_problem_arr[i-1][j-1]
+
+            else:
+                sub_problem_arr[i][j] = 1 + min(sub_problem_arr[i][j-1],
+                                                sub_problem_arr[i-1][j],
+                                                sub_problem_arr[i-1][j-1])
+    return sub_problem_arr[m][n]
+
+str1 = "sunday"
+str2 = "saturday"
+
+print(str_compare(str1, str2, len(str1), len(str2)))
+
+
+
+
+# without Dynamic programming O(3^n)
 def edDist(str1, str2, m, n):
 
     if m == 0:
