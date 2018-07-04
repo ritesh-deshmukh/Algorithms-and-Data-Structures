@@ -1,3 +1,4 @@
+
 class LeaderBoard:
     def __init__(self):
         self.leaderboard = {}
@@ -21,7 +22,7 @@ class LeaderBoard:
 
     def top(self, no_of_top_players):
         top_list = []
-        for key,value in sorted(self.leaderboard.items(),key=lambda e:e[1][0], reverse=True):
+        for key,value in sorted(self.leaderboard.items(),key=lambda e:e[1], reverse=True):
             top_list.append(key)
         return top_list[:no_of_top_players]
 
@@ -40,19 +41,19 @@ print(leader_board.add_score(3,90))
 print(leader_board.add_score(3,85))
 
 
-print(leader_board.top(3))
-print(leader_board.top(2))
-print(leader_board.top(1))
+print("\n",leader_board.top(3))
+# print(leader_board.top(2))
+# print(leader_board.top(1))
 
 
-leader_board.reset(3)
+# leader_board.reset(3)
 
-print(leader_board.top(3))
+# print(leader_board.top(3))
 
-
-def solution(A):
-    sumation = 0
-    for each_number in A:
-        if len(str(abs(each_number))) == 2:
-            sumation += each_number
-    return sumation
+#
+# def solution(A):
+#     sumation = 0
+#     for each_number in A:
+#         if len(str(abs(each_number))) == 2:
+#             sumation += each_number
+#     return sumation
