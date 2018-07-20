@@ -1,4 +1,4 @@
 # Algorithms-and-Data-Structures
 
 
-Algorithms Data Structures and problems implemented in Python 3
+Algorithms, Data Structures and problems implemented in Python 3
