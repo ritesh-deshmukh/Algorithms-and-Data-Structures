@@ -15,7 +15,7 @@ def disp_mat(mat_arr):
             print(mat_arr[i][j], end=" ")
         print("")
 
-mat_arr = [[0 for x in range(N)]for y in range(N)]
+# mat_arr = [[0 for x in range(N)]for y in range(N)]
 # print(mat_arr)
 
 mat_arr = [ [1, 2, 3, 4 ],

@@ -27,9 +27,8 @@ class Tree(object):
             else:
                 node.rightChild = Node(data)
 
-    # def traverse(self):
-    #
-    #         self.traverseInOrder(self.root)
+    def traverse(self):
+            self.traverseInOrder(self.root)
 
     def traverseInOrder(self, node):
         if self.root:

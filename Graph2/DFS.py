@@ -8,6 +8,7 @@ class Node(object):
         self.name = name
         self.adjacencyList = []
         self.visited = False
+        # print(self.adjacencyList)
 
 class DepthFirstSearch(object):
     def dfs(self, node):

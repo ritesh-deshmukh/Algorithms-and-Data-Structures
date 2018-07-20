@@ -12,7 +12,7 @@ def fib(n, memo):
     else:
         result = fib(n-1, memo) + fib(n-2, memo)
     memo[n] = result
-    print(memo)
+    # print(memo)
     return result
 
 
