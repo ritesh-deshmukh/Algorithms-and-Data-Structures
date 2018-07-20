@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Arrays/rotate_by_n.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Daily Coding Problem/Problem #1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Daily Coding Problem/Problem #2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Daily Coding Problem/Problem #4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Daily Coding Problem/Problem #5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Daily Coding Problem/Problem #6.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/bfs_graph.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/bfs_tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/dfs_graph.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/dfs_tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/fib.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/find_node_bst.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/find_node_bst2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/find_sort_time.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/identical_trees.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/no_of_1s.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/no_of_paths_mx.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/occurrences.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/pattern_translate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/reverse_DLL.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/reverse_LL.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/1/stackp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/LL.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/fizzbuzz.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/test12.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/test2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/test23" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Random Practice/test23.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Am_Practice/rotate90.py" afterPath="$PROJECT_DIR$/Am_Practice/rotate90.py" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/fibonacci_memoization.py" afterPath="$PROJECT_DIR$/Dynamic Programming/fibonacci_memoization.py" />
-      <change beforePath="$PROJECT_DIR$/Graph/Trees/tree1.py" afterPath="$PROJECT_DIR$/Graph/Trees/tree1.py" />
-      <change beforePath="$PROJECT_DIR$/Graph2/BFS.py" afterPath="$PROJECT_DIR$/Graph2/BFS.py" />
-      <change beforePath="$PROJECT_DIR$/Graph2/DFS.py" afterPath="$PROJECT_DIR$/Graph2/DFS.py" />
-      <change beforePath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py" afterPath="$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py" />
-      <change beforePath="$PROJECT_DIR$/venv1/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv1/pip-selfcheck.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,51 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Problem #1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #1.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem #6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem #2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem #4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem #5.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="63">
+              <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -136,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Random Practice2/dutch_sorting.py" />
         <option value="$PROJECT_DIR$/Random Practice2/isomorphic.py" />
         <option value="$PROJECT_DIR$/Random Practice2/shortened_url.py" />
         <option value="$PROJECT_DIR$/Random Practice2/array_hopper.py" />
@@ -187,6 +111,7 @@
         <option value="$PROJECT_DIR$/Arrays/rotate_by_n.py" />
         <option value="$PROJECT_DIR$/Daily Coding Problem/Problem #6.py" />
         <option value="$PROJECT_DIR$/Daily Coding Problem/Problem #5.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -219,11 +144,6 @@
             <path>
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily Coding Problem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -405,7 +325,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6613455" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3216308" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204983" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -443,13 +363,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="159" column="48" lean-forward="false" selection-start-line="159" selection-start-column="48" selection-end-line="159" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Graph/Trees/tree_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -752,34 +665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays/rotate_by_n.py">
+    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -792,10 +681,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #5.py">
+    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays/rotate_by_n.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
           <folding />
         </state>
       </provider>
