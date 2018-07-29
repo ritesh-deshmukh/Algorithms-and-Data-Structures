@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Advent of code/Day1_Part1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Advent of code/Day1_Part2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Advent of code/Day2_Part1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Advent of code/elves_input" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Advent of code/santa_input" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practice/test23" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practice3/new.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Practice3/sum_closest.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/bfs_graph.py" afterPath="$PROJECT_DIR$/Practice/1/bfs_graph.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/bfs_tree.py" afterPath="$PROJECT_DIR$/Practice/1/bfs_tree.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/dfs_graph.py" afterPath="$PROJECT_DIR$/Practice/1/dfs_graph.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/dfs_tree.py" afterPath="$PROJECT_DIR$/Practice/1/dfs_tree.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/fib.py" afterPath="$PROJECT_DIR$/Practice/1/fib.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/find_node_bst.py" afterPath="$PROJECT_DIR$/Practice/1/find_node_bst.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/find_node_bst2.py" afterPath="$PROJECT_DIR$/Practice/1/find_node_bst2.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/find_sort_time.py" afterPath="$PROJECT_DIR$/Practice/1/find_sort_time.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/identical_trees.py" afterPath="$PROJECT_DIR$/Practice/1/identical_trees.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/no_of_1s.py" afterPath="$PROJECT_DIR$/Practice/1/no_of_1s.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/no_of_paths_mx.py" afterPath="$PROJECT_DIR$/Practice/1/no_of_paths_mx.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/occurrences.py" afterPath="$PROJECT_DIR$/Practice/1/occurrences.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/pattern_translate.py" afterPath="$PROJECT_DIR$/Practice/1/pattern_translate.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/reverse_DLL.py" afterPath="$PROJECT_DIR$/Practice/1/reverse_DLL.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/reverse_LL.py" afterPath="$PROJECT_DIR$/Practice/1/reverse_LL.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/1/stackp.py" afterPath="$PROJECT_DIR$/Practice/1/stackp.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/CSV reader/csv_read.py" afterPath="$PROJECT_DIR$/Practice/CSV reader/csv_read.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/CSV reader/data.csv" afterPath="$PROJECT_DIR$/Practice/CSV reader/data.csv" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/LL.py" afterPath="$PROJECT_DIR$/Practice/LL.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/fibonacci.py" afterPath="$PROJECT_DIR$/Practice/fibonacci.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/fizzbuzz.py" afterPath="$PROJECT_DIR$/Practice/fizzbuzz.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/min_coins.py" afterPath="$PROJECT_DIR$/Practice/min_coins.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/test12.py" afterPath="$PROJECT_DIR$/Practice/test12.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/test2.py" afterPath="$PROJECT_DIR$/Practice/test2.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/test23" afterPath="$PROJECT_DIR$/Advent of code/Day2_Part2.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice/test23.py" afterPath="$PROJECT_DIR$/Practice/test23.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/array_hopper.py" afterPath="$PROJECT_DIR$/Practice2/array_hopper.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/balanced_brackets.py" afterPath="$PROJECT_DIR$/Practice2/balanced_brackets.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/combinations.py" afterPath="$PROJECT_DIR$/Practice2/combinations.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/dutch_sorting.py" afterPath="$PROJECT_DIR$/Practice2/dutch_sorting.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/generate_random.py" afterPath="$PROJECT_DIR$/Practice2/generate_random.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/isString_Substring.py" afterPath="$PROJECT_DIR$/Practice2/isString_Substring.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/isomorphic.py" afterPath="$PROJECT_DIR$/Practice2/isomorphic.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/leaderboard.py" afterPath="$PROJECT_DIR$/Practice2/leaderboard.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/longest_substring.py" afterPath="$PROJECT_DIR$/Practice2/longest_substring.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/merge_and_sort.py" afterPath="$PROJECT_DIR$/Practice2/merge_and_sort.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/min_number_withoutRelOptr.py" afterPath="$PROJECT_DIR$/Practice2/min_number_withoutRelOptr.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/multiplication_table.py" afterPath="$PROJECT_DIR$/Practice2/multiplication_table.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/n_fibonacci.py" afterPath="$PROJECT_DIR$/Practice2/n_fibonacci.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/shortened_url.py" afterPath="$PROJECT_DIR$/Practice2/shortened_url.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/sort_neg_pos.py" afterPath="$PROJECT_DIR$/Practice2/sort_neg_pos.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/str_reverse.py" afterPath="$PROJECT_DIR$/Practice2/str_reverse.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/str_reverse_stack.py" afterPath="$PROJECT_DIR$/Practice2/str_reverse_stack.py" />
+      <change beforePath="$PROJECT_DIR$/Random Practice2/test.py" afterPath="$PROJECT_DIR$/Practice2/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +68,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="Day2_Part2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advent of code/Day2_Part2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="64" lean-forward="false" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+            <state relative-caret-position="153">
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="elves_input" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advent of code/elves_input">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="999" column="7" lean-forward="false" selection-start-line="999" selection-start-column="7" selection-end-line="999" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -62,17 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Random Practice2/isomorphic.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/shortened_url.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/array_hopper.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/balanced_brackets.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/combinations.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/merge_and_sort.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/isString_Substring.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/longest_substring.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/generate_random.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/min_number_withoutRelOptr.py" />
-        <option value="$PROJECT_DIR$/Random Practice2/sort_neg_pos.py" />
         <option value="$PROJECT_DIR$/Random Practice2/str_reverse.py" />
         <option value="$PROJECT_DIR$/Random Practice2/multiplication_table.py" />
         <option value="$PROJECT_DIR$/Random Practice2/n_fibonacci.py" />
@@ -113,11 +163,23 @@
         <option value="$PROJECT_DIR$/Daily Coding Problem/Problem #6.py" />
         <option value="$PROJECT_DIR$/Daily Coding Problem/Problem #5.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Random Practice3/new.py" />
+        <option value="$PROJECT_DIR$/Random Practice3/sum_closest.py" />
+        <option value="$PROJECT_DIR$/Practice3/santa_present_delivery.py" />
+        <option value="$PROJECT_DIR$/Practice3/santa_input" />
+        <option value="$PROJECT_DIR$/Advent of code/Part1.py" />
+        <option value="$PROJECT_DIR$/Advent of code/santa_input" />
+        <option value="$PROJECT_DIR$/Advent of code/Part2.py" />
+        <option value="$PROJECT_DIR$/Advent of code/Part3.py" />
+        <option value="$PROJECT_DIR$/Advent of code/Part4.py" />
+        <option value="$PROJECT_DIR$/Advent of code/Day2_Part2.py" />
+        <option value="$PROJECT_DIR$/Advent of code/elves_input" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="911" />
+    <option name="y" value="83" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -146,6 +208,16 @@
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="Advent of code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,16 +231,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice\1" />
-      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Advent of code" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice\1" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random_Practice2" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice\CSV reader" />
-      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Sorting\Sorting1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice\1" />
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,111 +255,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rotate_by_n">
-    <configuration name="Problem #2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day2_Part2">
+    <configuration name="Day2_Part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Coding Problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advent of code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Coding Problem/Problem #2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advent of code/Day2_Part2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Problem #4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Coding Problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advent of code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Coding Problem/Problem #4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Advent of code\Day1_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Problem #5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Coding Problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advent of code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Coding Problem/Problem #5.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Advent of code\Day1_Part2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Problem #6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Part3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Coding Problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advent of code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Coding Problem/Problem #6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Advent of code\Day2_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="rotate_by_n" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="santa_present_delivery" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/rotate_by_n.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Advent of code\Day1_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Problem #2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Problem #4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Problem #6" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Problem #5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.rotate_by_n" />
+      <item index="0" class="java.lang.String" itemvalue="Python.santa_present_delivery" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Part1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Part2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Part3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Day2_Part2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.rotate_by_n" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Problem #5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Problem #6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Problem #4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Problem #2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Day2_Part2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Part3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Part2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Part1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.santa_present_delivery" />
       </list>
     </recent_temporary>
   </component>
@@ -317,24 +389,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16287678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26916975" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28425822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33218786" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2819932" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3216308" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204983" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3216308" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204983" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -364,62 +435,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/maze_problem_recursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/breadth_first_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/test23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/test12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/find_sort_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/edit_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Graph/depth_first_search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
@@ -449,77 +464,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/bfs_graph.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/bfs_graph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/dfs_graph.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/dfs_graph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/bfs_tree.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/bfs_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/find_node_bst.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/find_node_bst.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/identical_trees.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/identical_trees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/no_of_1s.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/no_of_1s.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/no_of_paths_mx.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/no_of_paths_mx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/occurrences.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/occurrences.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/reverse_LL.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/reverse_LL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/reverse_DLL.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/reverse_DLL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/LL.py">
+    <entry file="file://$PROJECT_DIR$/Practice/LL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
@@ -533,35 +548,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/stackp.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/stackp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/pattern_translate.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/pattern_translate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/dfs_tree.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/dfs_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/find_node_bst2.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/find_node_bst2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/Practice/fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
@@ -603,7 +618,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random Practice/1/fib.py">
+    <entry file="file://$PROJECT_DIR$/Practice/1/fib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -670,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,6 +720,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice3/new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice3/sum_closest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -717,7 +742,55 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="64" lean-forward="false" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advent of code/Day1_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advent of code/santa_input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6794" lean-forward="true" selection-start-line="0" selection-start-column="6794" selection-end-line="0" selection-end-column="6794" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advent of code/Day1_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advent of code/Day2_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advent of code/elves_input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="999" column="7" lean-forward="false" selection-start-line="999" selection-start-column="7" selection-end-line="999" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advent of code/Day2_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding />
         </state>
       </provider>
