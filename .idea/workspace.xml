@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Chocolate Distribution Problem.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Element with left side smaller and right side greater.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Stock buy and sell.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Element with left side smaller and right side greater.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Element with left side smaller and right side greater.py">
+      <file leaf-file-name="Convert array into Zig-Zag fashion.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+            <state relative-caret-position="202">
+              <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -73,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Arrays/rotate_by_n.py" />
         <option value="$PROJECT_DIR$/Daily Coding Problem/Problem #6.py" />
         <option value="$PROJECT_DIR$/Daily Coding Problem/Problem #5.py" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -124,10 +121,11 @@
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Chocolate Distribution Problem.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Stock buy and sell.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Element with left side smaller and right side greater.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -210,7 +208,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Element with left side smaller and right side greater">
+  <component name="RunManager" selected="Python.Convert array into Zig-Zag fashion">
+    <configuration name="Convert array into Zig-Zag fashion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Element with left side smaller and right side greater" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,38 +299,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Trapping Rain Water_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Trapping Rain Water_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Trapping Rain Water" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Trapping Rain Water_1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Pythagorean Triplet" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Stock buy and sell" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Element with left side smaller and right side greater" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Pythagorean Triplet" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Stock buy and sell" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Element with left side smaller and right side greater" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Convert array into Zig-Zag fashion" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Element with left side smaller and right side greater" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Stock buy and sell" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Pythagorean Triplet" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Trapping Rain Water" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Trapping Rain Water_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Convert array into Zig-Zag fashion" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Element with left side smaller and right side greater" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Stock buy and sell" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Pythagorean Triplet" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Trapping Rain Water" />
       </list>
     </recent_temporary>
   </component>
@@ -343,15 +341,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27710205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76103336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3216308" sideWeight="0.50396615" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54133636" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3137033" sideWeight="0.49814913" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31729668" sideWeight="0.49814913" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204983" sideWeight="0.49603385" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -391,13 +389,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advent of code/Day2_Part2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advent of code/elves_input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
@@ -757,6 +748,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding />
         </state>
       </provider>
