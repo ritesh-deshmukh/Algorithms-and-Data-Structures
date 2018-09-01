@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Find the element that appears once in sorted array.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Kth largest element in a stream.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Spirally traversing a matrix.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Spirally traversing a matrix.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Spirally traversing a matrix.py">
+      <file leaf-file-name="Largest subarray of 0's and 1's.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="63">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Random Practice3/sum_closest.py" />
-        <option value="$PROJECT_DIR$/Practice3/santa_present_delivery.py" />
-        <option value="$PROJECT_DIR$/Practice3/santa_input" />
         <option value="$PROJECT_DIR$/Advent of code/Part1.py" />
         <option value="$PROJECT_DIR$/Advent of code/santa_input" />
         <option value="$PROJECT_DIR$/Advent of code/Part2.py" />
@@ -125,11 +121,15 @@
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Kth largest element in a stream.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Spirally traversing a matrix.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="275" />
+    <option name="y" value="147" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -211,43 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Spirally traversing a matrix">
-    <configuration name="Convert array into Zig-Zag fashion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Find the element that appears once in sorted array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Find the element that appears once in sorted array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Largest Number formed from an Array">
     <configuration name="Kth largest element in a stream" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,6 +230,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Largest Number formed from an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Relative Sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,6 +261,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Sorting Elements of an Array by Frequency" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,19 +303,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Convert array into Zig-Zag fashion" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Find the element that appears once in sorted array" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Kth largest element in a stream" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Relative Sorting" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Kth largest element in a stream" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Relative Sorting" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Relative Sorting" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Kth largest element in a stream" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Find the element that appears once in sorted array" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Convert array into Zig-Zag fashion" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Relative Sorting" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Kth largest element in a stream" />
       </list>
     </recent_temporary>
   </component>
@@ -404,27 +404,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -781,6 +760,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
