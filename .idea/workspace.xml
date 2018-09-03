@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Parenthesis Checker.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/Recursive factorial program.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Sorted Array to Balanced BST.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py">
+      <file leaf-file-name="Parenthesis Checker.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Parenthesis Checker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="417">
+              <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -71,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advent of code/santa_input" />
-        <option value="$PROJECT_DIR$/Advent of code/Part2.py" />
         <option value="$PROJECT_DIR$/Advent of code/Part3.py" />
         <option value="$PROJECT_DIR$/Advent of code/Part4.py" />
         <option value="$PROJECT_DIR$/Advent of code/Day2_Part2.py" />
@@ -122,6 +121,8 @@
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py" />
         <option value="$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/Recursive factorial program.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Strings/Parenthesis Checker.py" />
       </list>
     </option>
   </component>
@@ -160,7 +161,7 @@
             <path>
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Am_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="180Geeks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sorted Array to Balanced BST">
+  <component name="RunManager" selected="Python.Parenthesis Checker">
     <configuration name="Largest Number formed from an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,19 +218,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Relative Sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Parenthesis Checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Strings/Parenthesis Checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Recursive factorial program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/Recursive factorial program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,38 +290,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Spirally traversing a matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Spirally traversing a matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Relative Sorting" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Sorted Array to Balanced BST" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Sorted Array to Balanced BST" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Recursive factorial program" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Parenthesis Checker" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Sorted Array to Balanced BST" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Relative Sorting" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Parenthesis Checker" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Recursive factorial program" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Sorted Array to Balanced BST" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
       </list>
     </recent_temporary>
   </component>
@@ -391,20 +392,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice2/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -770,8 +757,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="483">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/Recursive factorial program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Parenthesis Checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
