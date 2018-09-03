@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Largest subarray of 0's and 1's.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py">
+      <file leaf-file-name="Sorted Array to Balanced BST.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="273">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -73,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advent of code/Part1.py" />
         <option value="$PROJECT_DIR$/Advent of code/santa_input" />
         <option value="$PROJECT_DIR$/Advent of code/Part2.py" />
         <option value="$PROJECT_DIR$/Advent of code/Part3.py" />
@@ -124,6 +121,7 @@
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py" />
+        <option value="$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py" />
       </list>
     </option>
   </component>
@@ -162,18 +160,7 @@
             <path>
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="180Geeks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="180Geeks" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="Am_Practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,25 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Largest Number formed from an Array">
-    <configuration name="Kth largest element in a stream" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Kth largest element in a stream.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Sorted Array to Balanced BST">
     <configuration name="Largest Number formed from an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,6 +230,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Sorted Array to Balanced BST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,19 +290,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Kth largest element in a stream" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Relative Sorting" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Relative Sorting" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Sorted Array to Balanced BST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Relative Sorting" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Kth largest element in a stream" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Sorted Array to Balanced BST" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Largest Number formed from an Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Sorting Elements of an Array by Frequency" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Spirally traversing a matrix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Relative Sorting" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +339,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3216308" sideWeight="0.50396615" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54133636" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31596828" sideWeight="0.49814913" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31596828" sideWeight="0.49814913" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31596828" sideWeight="0.49603385" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -404,13 +391,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Daily Coding Problem/Problem #12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -784,6 +764,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding />
         </state>
       </provider>
