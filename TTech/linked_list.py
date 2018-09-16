@@ -37,14 +37,15 @@ class LinkedList:
 
 llist = LinkedList()
 
+
+llist.appendtoend(6)
+llist.appendtoend(7)
+llist.appendtoend(8)
 llist.appendtostart(5)
 llist.appendtostart(4)
 llist.appendtostart(3)
 llist.appendtostart(2)
 llist.appendtostart(1)
-llist.appendtoend(6)
-llist.appendtoend(7)
-llist.appendtoend(8)
-llist.appendinmiddle(llist.head.next, 41)
+# llist.appendinmiddle(llist.head.next, 41)
 
 llist.printLL()

@@ -1,8 +1,8 @@
-# Given full name: ("John Smith").
-# Write a function that swaps the first and the last name and inserts a comma in between.
-# if invalid input, print "invalid input"
-
-
+# # Given full name: ("John Smith").
+# # Write a function that swaps the first and the last name and inserts a comma in between.
+# # if invalid input, print "invalid input"
+#
+#
 name = None
 
 def NameSwap(name):
