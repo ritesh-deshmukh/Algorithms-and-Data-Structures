@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Remove loop in Linked List.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Reverse a Linked List in groups of given size..py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Flattening a Linked List.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Merge two sorted linked lists.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Check for BST.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py" afterPath="$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,41 +23,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Detect Loop in linked list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py">
+      <file leaf-file-name="Left View of Binary Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="743">
-              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            <state relative-caret-position="315">
+              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Remove loop in Linked List.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Remove loop in Linked List.py">
+      <file leaf-file-name="Left View of Binary Tree2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="462">
+              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rotate a Linked List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py">
+      <file leaf-file-name="Check for BST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Check for BST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="95" column="26" lean-forward="true" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+            <state relative-caret-position="588">
+              <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Finding middle element in a linked list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Finding middle element in a linked list.py">
+      <file leaf-file-name="Level order traversal in spiral form.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            <state relative-caret-position="491">
+              <caret line="38" column="65" lean-forward="false" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -109,12 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/180Geeks/Arrays/Stock buy and sell.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Arrays/Element with left side smaller and right side greater.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Arrays/Convert array into Zig-Zag fashion.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Arrays/Find the element that appears once in sorted array.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Arrays/Kth largest element in a stream.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Spirally traversing a matrix.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py" />
         <option value="$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py" />
@@ -158,14 +155,19 @@
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a linked list.py" />
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py" />
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a Linked List in groups of given size..py" />
-        <option value="$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py" />
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Remove loop in Linked List.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Linked List/Flattening a Linked List.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Linked List/Merge two sorted linked lists.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree2.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Tree/Check for BST.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="692" />
-    <option name="y" value="17" />
+    <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -204,7 +206,7 @@
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
               <item name="180Geeks" type="462c0819:PsiDirectoryNode" />
-              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +245,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Detect Loop in linked list">
+  <component name="RunManager" selected="Python.Level order traversal in spiral form">
+    <configuration name="Check for BST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Check for BST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Detect Loop in linked list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,92 +282,74 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Finding middle element in a linked list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Left View of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Linked List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Linked List/Finding middle element in a linked list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Reverse a Linked List in groups of given size." type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Left View of Binary Tree2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Linked List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a Linked List in groups of given size..py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Reverse a linked list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Level order traversal in spiral form" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Linked List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a linked list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Rotate a Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Linked List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Finding middle element in a linked list" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Reverse a linked list" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Rotate a Linked List" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Reverse a Linked List in groups of given size." />
-      <item index="4" class="java.lang.String" itemvalue="Python.Detect Loop in linked list" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Detect Loop in linked list" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Left View of Binary Tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Left View of Binary Tree2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Check for BST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Level order traversal in spiral form" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Detect Loop in linked list" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Reverse a Linked List in groups of given size." />
-        <item index="2" class="java.lang.String" itemvalue="Python.Rotate a Linked List" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Reverse a linked list" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Finding middle element in a linked list" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Level order traversal in spiral form" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Check for BST" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Left View of Binary Tree2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Left View of Binary Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Detect Loop in linked list" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +422,7 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22792174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18773136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3216308" sideWeight="0.50396615" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30351076" sideWeight="0.49814913" order="2" side_tool="false" content_ui="tabs" />
@@ -477,59 +479,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Relative Sorting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Spirally traversing a matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Sorting Elements of an Array by Frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Largest Number formed from an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/Largest subarray of 0's and 1's.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Am_Practice/Sorted Array to Balanced BST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Am_Practice/Recursive factorial program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.py" />
-    <entry file="file://$PROJECT_DIR$/180Geeks/remesh/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/180Geeks/remesh/test_file.py" />
     <entry file="file://$PROJECT_DIR$/remesh/reverse_multidimensional.py" />
     <entry file="file://$PROJECT_DIR$/180Geeks/remesh/test_reverse.py" />
     <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Parenthesis Checker.py">
@@ -589,25 +538,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Am_Practice/tree_mirror.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TTech/palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TTech/bst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,14 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="95" column="26" lean-forward="true" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Finding middle element in a linked list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -807,10 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py">
+    <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        <state relative-caret-position="1800">
+          <caret line="95" column="26" lean-forward="true" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -819,6 +745,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Detect Loop in linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="42" column="37" lean-forward="false" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Flattening a Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="65" lean-forward="false" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Linked List/Merge two sorted linked lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="75" lean-forward="true" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/tree_mirror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/VerticalSum_BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/Trees/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1336">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TTech/bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Check for BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Left View of Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="38" column="65" lean-forward="false" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
           <folding />
         </state>
       </provider>

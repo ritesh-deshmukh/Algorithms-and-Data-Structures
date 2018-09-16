@@ -36,12 +36,12 @@ class LinkedList:
         return False
 
     def detectLoopUsingPointers(self):
-        slow = self.head
-        fast = self.head
-        while slow and fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-            if slow == fast:
+        pointer1 = self.head
+        pointer2 = self.head
+        while pointer1 and pointer2 and pointer2.next:
+            pointer1 = pointer1.next
+            pointer2 = pointer2.next.next
+            if pointer1 == pointer2:
                 return True
         return False
 
