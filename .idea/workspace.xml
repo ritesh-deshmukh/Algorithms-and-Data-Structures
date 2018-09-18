@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Anagram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Longest Common Substring.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/180Geeks/Strings/Roman Number to Integer.py" afterPath="$PROJECT_DIR$/180Geeks/Strings/Roman Number to Integer.py" />
     </list>
@@ -17,11 +19,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Roman Number to Integer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Roman Number to Integer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Roman Number to Integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="819">
+              <caret line="39" column="57" lean-forward="true" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Anagram.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Anagram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest Common Substring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Longest Common Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -76,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/180Geeks/Strings/Permutations of a given string.py" />
-        <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/180Geeks/reverse array in place.py" />
         <option value="$PROJECT_DIR$/180Geeks/reverse multidimensional array in place.py" />
         <option value="$PROJECT_DIR$/180Geeks/test_file.py" />
@@ -127,6 +147,8 @@
         <option value="$PROJECT_DIR$/180Geeks/Tree/Populating Next Right Pointers in Each Node.py" />
         <option value="$PROJECT_DIR$/180Geeks/Tree/offerup.py" />
         <option value="$PROJECT_DIR$/180Geeks/Strings/Roman Number to Integer.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Strings/Anagram.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Strings/Longest Common Substring.py" />
       </list>
     </option>
   </component>
@@ -230,7 +252,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Roman Number to Integer">
+  <component name="RunManager" selected="Python.Longest Common Substring">
+    <configuration name="Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Strings/Anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Level Order Tree Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,6 +284,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Level Order Tree Traversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Longest Common Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Strings/Longest Common Substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,24 +325,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Reverse a Linked List in groups of given size." type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Linked List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a Linked List in groups of given size..py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Roman Number to Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,38 +343,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Rotate a Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Linked List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Rotate a Linked List" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Reverse a Linked List in groups of given size." />
-      <item index="2" class="java.lang.String" itemvalue="Python.Level Order Tree Traversal" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Populating Next Right Pointers in Each Node" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Roman Number to Integer" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Level Order Tree Traversal" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Populating Next Right Pointers in Each Node" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Roman Number to Integer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Anagram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Longest Common Substring" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Roman Number to Integer" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Populating Next Right Pointers in Each Node" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Level Order Tree Traversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Rotate a Linked List" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Reverse a Linked List in groups of given size." />
+        <item index="0" class="java.lang.String" itemvalue="Python.Longest Common Substring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Anagram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Roman Number to Integer" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Populating Next Right Pointers in Each Node" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Level Order Tree Traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +434,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30351076" sideWeight="0.5050238" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.70441675" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30351076" sideWeight="0.4949762" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30351076" sideWeight="0.4949762" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3556059" sideWeight="0.49603385" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -464,20 +486,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SOLID/python_code/bad/single_responsibility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOLID/python_code/good/single_responsibility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SOLID/python_code/bad/LSP.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -685,6 +693,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -830,8 +839,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Roman Number to Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="819">
+          <caret line="39" column="57" lean-forward="true" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Longest Common Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>
