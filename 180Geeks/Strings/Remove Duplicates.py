@@ -11,6 +11,7 @@ def remove_duplicates(word):
         if word.count(word[i]) > 1:
             del(word[i])
             i += 1
-    print(word)
+    print(f"Given word without duplicates: {''.join(word)}")
 
+print(f"Given word with duplicates: {word}")
 remove_duplicates(word)
