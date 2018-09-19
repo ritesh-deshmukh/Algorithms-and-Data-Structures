@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Implement Atoi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Implement strstr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Longest Common Prefix in an Array.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Longest Distinct characters in string.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Strings/Subarray with given sum.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +16,18 @@
     <favorites_list name="Algorithms_practice" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Subarray with given sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Subarray with given sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="101" lean-forward="true" selection-start-line="12" selection-start-column="101" selection-end-line="12" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/remesh/reverse_multidimensional.py" />
         <option value="$PROJECT_DIR$/180Geeks/Strings/Longest Palindrome in a String.py" />
         <option value="$PROJECT_DIR$/180Geeks/Strings/Recursively remove all adjacent duplicates.py" />
         <option value="$PROJECT_DIR$/180Geeks/Strings/Check if string is rotated by two places.py" />
@@ -119,6 +126,7 @@
         <option value="$PROJECT_DIR$/180Geeks/Strings/Implement Atoi.py" />
         <option value="$PROJECT_DIR$/180Geeks/Strings/Implement strstr.py" />
         <option value="$PROJECT_DIR$/180Geeks/Strings/Longest Common Prefix in an Array.py" />
+        <option value="$PROJECT_DIR$/180Geeks/Strings/Subarray with given sum.py" />
       </list>
     </option>
   </component>
@@ -222,25 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Longest Common Prefix in an Array">
-    <configuration name="Form a palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Strings/Form a palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Subarray with given sum">
     <configuration name="Implement Atoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,20 +303,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Subarray with given sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithms_practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Strings/Subarray with given sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Form a palindrome" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Longest Distinct characters in string" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Implement Atoi" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Implement strstr" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Longest Common Prefix in an Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Longest Distinct characters in string" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Implement Atoi" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Implement strstr" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Longest Common Prefix in an Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Subarray with given sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Longest Common Prefix in an Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Implement strstr" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Implement Atoi" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Longest Distinct characters in string" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Form a palindrome" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Subarray with given sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Longest Common Prefix in an Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Implement strstr" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Implement Atoi" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Longest Distinct characters in string" />
       </list>
     </recent_temporary>
   </component>
@@ -397,6 +405,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1660497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -455,13 +464,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Graph/Representing a graph/adjacency_matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked-List, Stack, Queue, Heaps, Hashing/linked1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -832,6 +834,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Subarray with given sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="101" lean-forward="true" selection-start-line="12" selection-start-column="101" selection-end-line="12" selection-end-column="101" />
           <folding />
         </state>
       </provider>
