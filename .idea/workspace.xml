@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfbece4-8ae1-4579-9a9e-285b829578f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Example.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Arrays/Start and end in a sorted arr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Bottom View of Binary Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Connect Nodes at Same Level.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Lowest Common Ancestor in a BST.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/180Geeks/Tree/Vertical order of a Binary Tree.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Practice/nth fibo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exception Handling/Errors and Exception Handling.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exception Handling/Example2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exception Handling/Example3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exception Handling/Example4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exception Handling/Example5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Exception Handling/example1.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Am_Practice/tree_mirror.py" afterPath="$PROJECT_DIR$/Am_Practice/tree_mirror.py" />
-      <change beforePath="$PROJECT_DIR$/Arrays/rotate_by_n.py" afterPath="$PROJECT_DIR$/180Geeks/Arrays/rotate_by_n.py" />
-      <change beforePath="$PROJECT_DIR$/TTech/palindrome.py" afterPath="$PROJECT_DIR$/TTech/palindrome.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="tree_mirror.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Am_Practice/tree_mirror.py">
+      <file leaf-file-name="Example5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exception Handling/Example5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="294">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Level order traversal in spiral form.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py">
+      <file leaf-file-name="Example2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exception Handling/Example2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="273">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -99,13 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SOLID-master/python_code/bad/DIP.py" />
-        <option value="$PROJECT_DIR$/SOLID-master/python_code/good/DIP.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Strings/ip address in range.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Strings/Letters in a word.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Strings/name swap.py" />
-        <option value="$PROJECT_DIR$/TTech/linked_list.py" />
-        <option value="$PROJECT_DIR$/180Geeks/Linked List/Finding middle element in a linked list.py" />
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a linked list.py" />
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Rotate a Linked List.py" />
         <option value="$PROJECT_DIR$/180Geeks/Linked List/Reverse a Linked List in groups of given size..py" />
@@ -150,6 +139,13 @@
         <option value="$PROJECT_DIR$/180Geeks/Tree/Connect Nodes at Same Level.py" />
         <option value="$PROJECT_DIR$/180Geeks/Tree/Lowest Common Ancestor in a BST.py" />
         <option value="$PROJECT_DIR$/Am_Practice/tree_mirror.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/example1.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/Errors and Exception Handling.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/Example2.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/Example3.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/Example4.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/example5.py" />
+        <option value="$PROJECT_DIR$/Exception Handling/Example5.py" />
       </list>
     </option>
   </component>
@@ -186,13 +182,7 @@
             <path>
               <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="180Geeks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-and-Data-Structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-and-Data-Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="180Geeks" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception Handling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,17 +197,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures" />
-      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice\1" />
-      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\180Geeks\Arrays" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\180Geeks" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\remesh" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\180Geeks\remesh" />
       <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Veriflow" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\OOP" />
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures" />
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice\1" />
+      <recent name="C:\Users\rites\PycharmProjects\Algorithms-and-Data-Structures\Random Practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,111 +223,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tree_mirror">
-    <configuration name="Bottom View of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Example5">
+    <configuration name="Errors and Exception Handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Bottom View of Binary Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception Handling/Errors and Exception Handling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Connect Nodes at Same Level" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Connect Nodes at Same Level.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception Handling/Example2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Lowest Common Ancestor in a BST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Example3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Lowest Common Ancestor in a BST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception Handling/Example3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Vertical order of a Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Example4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/180Geeks/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/180Geeks/Tree/Vertical order of a Binary Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception Handling/Example4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tree_mirror" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Example5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Am_Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms_practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Am_Practice/tree_mirror.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception Handling/Example5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Bottom View of Binary Tree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Vertical order of a Binary Tree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Connect Nodes at Same Level" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lowest Common Ancestor in a BST" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tree_mirror" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Errors and Exception Handling" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Example2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Example3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Example4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Example5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tree_mirror" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lowest Common Ancestor in a BST" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Connect Nodes at Same Level" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Vertical order of a Binary Tree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Bottom View of Binary Tree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Example5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Example4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Example3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Example2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Errors and Exception Handling" />
       </list>
     </recent_temporary>
   </component>
@@ -412,10 +403,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31306186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30351076" sideWeight="0.5050238" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27066818" sideWeight="0.4949762" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27066818" sideWeight="0.4949762" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24742268" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28878823" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3556059" sideWeight="0.49603385" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42582107" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -425,6 +415,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -466,76 +457,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Permutations of a given string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Reverse words in a given string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Roman Number to Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="39" column="57" lean-forward="true" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Anagram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Longest Common Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Remove Duplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Implement Atoi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Longest Distinct characters in string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Form a palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Implement strstr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/180Geeks/Strings/Longest Common Prefix in an Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -603,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,23 +559,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/test3.py" />
     <entry file="file://$PROJECT_DIR$/180Geeks/Arrays/rotate_by_n.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-110">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,31 +581,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/180Geeks/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/180Geeks/test2.py" />
+    <entry file="file://$PROJECT_DIR$/180Geeks/test.py" />
     <entry file="file://$PROJECT_DIR$/Practice/nth fibo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-189">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-63">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
           <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,15 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Am_Practice/tree_mirror.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,14 +709,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/180Geeks/Tree/Level order traversal in spiral form.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        <state relative-caret-position="588">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Am_Practice/tree_mirror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily Coding Problem/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice2/array_hopper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/Abstraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/property_decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception Handling/Example3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception Handling/Example4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception Handling/Errors and Exception Handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception Handling/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception Handling/Example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception Handling/Example5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding />
         </state>
       </provider>
